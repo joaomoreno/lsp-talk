@@ -1,0 +1,25 @@
+Intro
+  Me
+  My team
+  My work
+Meat
+  History
+    
+  LSP
+    In a nutshell
+    Why?
+      https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol
+    Development, website
+      https://microsoft.github.io/language-server-protocol/
+    In the wild
+      https://microsoft.github.io/language-server-protocol/implementors/servers/
+  LSIF
+    In a nutshell
+    Why?
+      https://code.visualstudio.com/blogs/2019/02/19/lsif
+      https://code.visualstudio.com/blogs/2018/12/04/rich-navigation
+Conclusion
+  How to get started
+    https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
+
+DEMO?
