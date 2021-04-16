@@ -3,7 +3,7 @@ Intro
   My team
   My work
 Meat
-  History
+  History, Motivation
     https://github.com/microsoft/language-server-protocol/wiki/Protocol-History
   LSP
     In a nutshell
