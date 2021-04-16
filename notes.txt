@@ -4,7 +4,7 @@ Intro
   My work
 Meat
   History
-    
+    https://github.com/microsoft/language-server-protocol/wiki/Protocol-History
   LSP
     In a nutshell
     Why?
@@ -18,8 +18,9 @@ Meat
     Why?
       https://code.visualstudio.com/blogs/2019/02/19/lsif
       https://code.visualstudio.com/blogs/2018/12/04/rich-navigation
+      https://github.com/microsoft/language-server-protocol/blob/main/indexFormat/specification.md
 Conclusion
   How to get started
     https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
-
+    
 DEMO?
