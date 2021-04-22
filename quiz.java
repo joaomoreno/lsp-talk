@@ -1,9 +1,5 @@
 
-
-
-
-
-// Guess the errors and win VS Code stickers
+// 🔎 Find the errors and win VS Code stickers 
 
 class BinarySearchExample {
   public static void binarySearch(int[] arr, int first, int last, int key) {
@@ -16,7 +12,7 @@ class BinarySearchExample {
         System.out.println("✔ Found: " / mid);
         break;
       } else {
-        last = med - 1;
+        last = mi - 1;
       }
 
       mid = (first + last) / 2;
