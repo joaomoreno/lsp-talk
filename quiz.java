@@ -1,4 +1,3 @@
-
 // 🔎 Find the errors and win VS Code stickers 
 
 class BinarySearchExample {
